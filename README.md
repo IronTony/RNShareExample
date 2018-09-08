@@ -10,6 +10,14 @@ This version includes `react-native-image-picker` and `react-native-share`.
 ### iOS
 When I try to share to Facebook a live photo taken from camera or a local one, I am redirected to Safari on the following URL: https://m.facebook.com/sharer/sharer.php, with the following error message: `href should represent a valid URL`.
 
+I am passing the `uri` from my iOS object:
+
+![Screenshot](https://github.com/IronTony/RNShareExample/blob/master/Screen%20Shot%202018-09-08%20at%2010.10.37.png)
+
+And this is the warning message I get back:
+
+![Screenshot](https://github.com/IronTony/RNShareExample/blob/master/Screen%20Shot%202018-09-08%20at%2010.10.24.png)
+
 Instagram works fine.
 
 
