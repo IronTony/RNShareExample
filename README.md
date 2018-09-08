@@ -17,3 +17,7 @@ Instagram works fine.
 When I try to share to Facebook a live photo taken from camera or a local one, the Facebook app opens but without the image inside.
 
 When I try to share to Instagram a live photo taken from camera or a local one, the Instagram app seems to open but I have a blank screen and a toast message with `An unknown error occurred`.
+
+I am passing the `uri` from my object:
+
+![Screenshot](https://github.com/IronTony/RNShareExample/blob/master/Screen%20Shot%202018-09-08%20at%2010.04.24.png)
