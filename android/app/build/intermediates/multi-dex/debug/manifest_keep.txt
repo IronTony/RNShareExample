@@ -1,0 +1,3 @@
+# Referenced at /Users/irontony/Desktop/RNShareExample/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:25
+-keep class com.rnshareexample.MainApplication { <init>(...); }
+

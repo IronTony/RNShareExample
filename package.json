@@ -1,9 +1,16 @@
 {
   "name": "RNShareExample",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "devDependencies": {
-    "babel-preset-react-native-stage-0": "^1.0.1",
+    "babel-eslint": "^9.0.0",
+    "babel-preset-react-native": "^5.0.2",
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-react-native": "^3.2.1",
     "jest": "^23.5.0",
     "jest-react-native": "^18.0.0",
     "react-test-renderer": "^16.5.0"
@@ -19,6 +26,8 @@
   },
   "dependencies": {
     "react": "^16.5.0",
-    "react-native": "^0.56.0"
+    "react-native": "^0.56.0",
+    "react-native-image-picker": "^0.26.10",
+    "react-native-share": "^1.1.1"
   }
 }

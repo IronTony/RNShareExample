@@ -1,0 +1,42 @@
+extends:
+  - airbnb
+
+env:
+  browser: true,
+  es6: true
+
+parser: babel-eslint
+
+plugins:
+  - react
+  - react-native
+
+rules:
+  object-curly-spacing:
+    - error
+    - always
+  no-multi-spaces: 0
+  import/prefer-default-export: 0
+  no-unused-vars:
+    - error
+    - argsIgnorePattern: '^_.+'
+      varsIgnorePattern: '^_.+'
+  no-constant-condition:
+    - error
+    - checkLoops: false
+  redux-saga/no-unhandled-errors: 0
+
+  # React Native has JSX in JS files
+  react/jsx-filename-extension:
+    - 1
+    - extensions: ['.js', '.jsx']
+
+  settings:
+    import/resolver:
+      node:
+        path: ['.js','.jsx']
+
+  #React Native includes images via require('../images/example.png')
+  global-require: 'off'
+
+  no-debugger: 0
