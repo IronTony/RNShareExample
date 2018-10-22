@@ -116,12 +116,11 @@ com/facebook/common/internal/DoNotStrip.class
 com/facebook/common/internal/Objects.class
 com/facebook/common/internal/VisibleForTesting.class
 com/facebook/common/references/OOMSoftReference.class
+com/facebook/drawee/backends/pipeline/info/ImageLoadStatus.class
 com/facebook/drawee/backends/pipeline/info/ImageOrigin.class
-com/facebook/fbui/textlayoutbuilder/TextLayoutBuilder$MeasureMode.class
 com/facebook/imagepipeline/common/RotationOptions$RotationAngle.class
 com/facebook/imagepipeline/common/SourceUriType.class
 com/facebook/imagepipeline/producers/Consumer$Status.class
-com/facebook/imagepipeline/request/MediaVariations$Source.class
 com/facebook/infer/annotation/Assertions.class
 com/facebook/infer/annotation/Expensive.class
 com/facebook/infer/annotation/FalseOnNull.class
@@ -137,6 +136,7 @@ com/facebook/infer/annotation/PerformanceCritical.class
 com/facebook/infer/annotation/Present.class
 com/facebook/infer/annotation/PrivacySink.class
 com/facebook/infer/annotation/PrivacySource.class
+com/facebook/infer/annotation/PropagatesNullable.class
 com/facebook/infer/annotation/ReturnsOwnership.class
 com/facebook/infer/annotation/SuppressFieldNotInitialized.class
 com/facebook/infer/annotation/SuppressFieldNotNullable.class
@@ -146,6 +146,7 @@ com/facebook/infer/annotation/SuppressNullMethodCall.class
 com/facebook/infer/annotation/SuppressParameterNotNullable.class
 com/facebook/infer/annotation/SuppressReturnOverAnnotated.class
 com/facebook/infer/annotation/SuppressViewNullability.class
+com/facebook/infer/annotation/SynchronizedCollection.class
 com/facebook/infer/annotation/ThreadConfined.class
 com/facebook/infer/annotation/ThreadSafe.class
 com/facebook/infer/annotation/TrueOnNull.class
@@ -169,7 +170,6 @@ com/facebook/react/devsupport/RedBoxHandler.class
 com/facebook/react/module/annotations/ReactModule.class
 com/facebook/react/module/annotations/ReactModuleList.class
 com/facebook/react/shell/MainReactPackage.class
-com/facebook/react/uimanager/UIImplementationProvider.class
 com/facebook/react/uimanager/annotations/ReactProp.class
 com/facebook/react/uimanager/annotations/ReactPropGroup.class
 com/facebook/react/uimanager/annotations/ReactPropertyHolder.class

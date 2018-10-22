@@ -6,18 +6,17 @@ INJECTED from /Users/irontony/Desktop/RNShareExample/android/app/src/main/Androi
 INJECTED from /Users/irontony/Desktop/RNShareExample/android/app/src/main/AndroidManifest.xml:1:1-35:12
 MERGED from [:react-native-image-picker] /Users/irontony/Desktop/RNShareExample/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [:react-native-share] /Users/irontony/Desktop/RNShareExample/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
-MERGED from [com.facebook.react:react-native:0.56.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/418b31668de51f2afccf923bb4ac435b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/df7ebea08ec8a0ea7d9d9a0659ebf09f/AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f7af201cb1c384707da74409a9eb7711/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:multidex:1.0.2] /Users/irontony/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/f225601d06e8a4c0b8ab6eb18f71e7f2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/8478985eaacfb2420b42d86a1c70b1a5/AndroidManifest.xml:10:1-18:12
-MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/6c5a72cd580e07cc7d8a31dfab53ea0a/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/5b50125f1ef56a55770fe0d1cb1e2ea7/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/92a468489c29acc84a26c3f3d9582412/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/a9d6d15a88de069081f3e5a33abf3d8f/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/e1416da111550e3c976f5fb30676b10b/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/a11378a8be1e31cbc0d7e8290ab38255/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/88ba6f5a46289f7ae8ab1b3738dc68f3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f1e3a57f9e3b5952884dbc09edf62ac3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/23961e577ee4342c794b737b23c053f1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f3ef5136d65ac8acdcd9d0f80d5f5d08/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/fc310cf1611db61b04c75b90cd1e5c00/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1a17d6b521982cac6a5c1e8c3e30e653/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r174650] /Users/irontony/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/fd0a4dc1ab3ef82e7f637564b92bdd60/AndroidManifest.xml:1:1-3:12
-MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/acbe27822d37ede70dcd0cf86cab3374/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/ed9292bf9812f70a2328bfa6f5b3ed27/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e2e46ae1e2eb276adeff5a00abbf6905/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1c0dc00c176106e987ad39cb2e4fa85d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/95b815c27609662b756b43827aa7e516/AndroidManifest.xml:17:1-22:12
@@ -51,8 +50,8 @@ ADDED from /Users/irontony/Desktop/RNShareExample/android/app/src/main/AndroidMa
 		ADDED from /Users/irontony/Desktop/RNShareExample/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/irontony/Desktop/RNShareExample/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.56.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/418b31668de51f2afccf923bb4ac435b/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.56.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/418b31668de51f2afccf923bb4ac435b/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/df7ebea08ec8a0ea7d9d9a0659ebf09f/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/df7ebea08ec8a0ea7d9d9a0659ebf09f/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/irontony/Desktop/RNShareExample/android/app/src/main/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.CAMERA
@@ -87,10 +86,10 @@ application
 ADDED from /Users/irontony/Desktop/RNShareExample/android/app/src/main/AndroidManifest.xml:13:5-33:19
 MERGED from [:react-native-image-picker] /Users/irontony/Desktop/RNShareExample/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
 MERGED from [:react-native-image-picker] /Users/irontony/Desktop/RNShareExample/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [com.facebook.react:react-native:0.56.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/418b31668de51f2afccf923bb4ac435b/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.56.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/418b31668de51f2afccf923bb4ac435b/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/a11378a8be1e31cbc0d7e8290ab38255/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/a11378a8be1e31cbc0d7e8290ab38255/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/df7ebea08ec8a0ea7d9d9a0659ebf09f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/df7ebea08ec8a0ea7d9d9a0659ebf09f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1a17d6b521982cac6a5c1e8c3e30e653/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1a17d6b521982cac6a5c1e8c3e30e653/AndroidManifest.xml:11:5-20
 MERGED from [org.webkit:android-jsc:r174650] /Users/irontony/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/fd0a4dc1ab3ef82e7f637564b92bdd60/AndroidManifest.xml:2:3-17
 MERGED from [org.webkit:android-jsc:r174650] /Users/irontony/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/fd0a4dc1ab3ef82e7f637564b92bdd60/AndroidManifest.xml:2:3-17
 	android:label
@@ -151,28 +150,26 @@ MERGED from [:react-native-image-picker] /Users/irontony/Desktop/RNShareExample/
 MERGED from [:react-native-image-picker] /Users/irontony/Desktop/RNShareExample/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-share] /Users/irontony/Desktop/RNShareExample/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-share] /Users/irontony/Desktop/RNShareExample/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.56.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/418b31668de51f2afccf923bb4ac435b/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.56.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/418b31668de51f2afccf923bb4ac435b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/df7ebea08ec8a0ea7d9d9a0659ebf09f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/irontony/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/df7ebea08ec8a0ea7d9d9a0659ebf09f/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f7af201cb1c384707da74409a9eb7711/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f7af201cb1c384707da74409a9eb7711/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:multidex:1.0.2] /Users/irontony/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/f225601d06e8a4c0b8ab6eb18f71e7f2/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.2] /Users/irontony/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/f225601d06e8a4c0b8ab6eb18f71e7f2/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/8478985eaacfb2420b42d86a1c70b1a5/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/8478985eaacfb2420b42d86a1c70b1a5/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/6c5a72cd580e07cc7d8a31dfab53ea0a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/6c5a72cd580e07cc7d8a31dfab53ea0a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/5b50125f1ef56a55770fe0d1cb1e2ea7/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/5b50125f1ef56a55770fe0d1cb1e2ea7/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/92a468489c29acc84a26c3f3d9582412/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/92a468489c29acc84a26c3f3d9582412/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/a9d6d15a88de069081f3e5a33abf3d8f/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/a9d6d15a88de069081f3e5a33abf3d8f/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/e1416da111550e3c976f5fb30676b10b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/e1416da111550e3c976f5fb30676b10b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/a11378a8be1e31cbc0d7e8290ab38255/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/a11378a8be1e31cbc0d7e8290ab38255/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/acbe27822d37ede70dcd0cf86cab3374/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/acbe27822d37ede70dcd0cf86cab3374/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/88ba6f5a46289f7ae8ab1b3738dc68f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/88ba6f5a46289f7ae8ab1b3738dc68f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f1e3a57f9e3b5952884dbc09edf62ac3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f1e3a57f9e3b5952884dbc09edf62ac3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/23961e577ee4342c794b737b23c053f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/23961e577ee4342c794b737b23c053f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f3ef5136d65ac8acdcd9d0f80d5f5d08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f3ef5136d65ac8acdcd9d0f80d5f5d08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/fc310cf1611db61b04c75b90cd1e5c00/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/fc310cf1611db61b04c75b90cd1e5c00/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1a17d6b521982cac6a5c1e8c3e30e653/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1a17d6b521982cac6a5c1e8c3e30e653/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/ed9292bf9812f70a2328bfa6f5b3ed27/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/irontony/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/ed9292bf9812f70a2328bfa6f5b3ed27/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e2e46ae1e2eb276adeff5a00abbf6905/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e2e46ae1e2eb276adeff5a00abbf6905/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/irontony/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1c0dc00c176106e987ad39cb2e4fa85d/AndroidManifest.xml:20:5-44

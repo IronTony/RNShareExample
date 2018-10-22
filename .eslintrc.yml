@@ -25,6 +25,8 @@ rules:
     - error
     - checkLoops: false
   redux-saga/no-unhandled-errors: 0
+  template-curly-spacing: 0
+  indent: 0
 
   # React Native has JSX in JS files
   react/jsx-filename-extension:
